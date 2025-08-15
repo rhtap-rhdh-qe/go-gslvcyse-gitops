@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/go-gslvcyse:2e33a05cc98f81b8c7ab95de0800f3227eee6fdd@sha256:5b8d710dc0774fddd585c1dac833edc793d668e75de892ef580dfc00d3615089
+        - image: quay.io/rhtap_qe/go-gslvcyse:0e8a7d923649c5e075ddd1eb0066e5defd65a0a4@sha256:053afbd3c77d8e6f7b07c0757d6e0273e32132e1b3d21f15618c49b40d5d4d32
           name: container-image
